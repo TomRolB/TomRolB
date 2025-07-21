@@ -2,19 +2,17 @@
 
 <div align="center">
   
-### 🚀 Full Stack Software Engineer | 📚 Software Engineering Student | 🤖 Machine Learning Enthusiast
+### 🚀 Full Stack Software Engineer | 📚 Advanced Software Engineering Student | 🤖 Machine Learning Enthusiast
 
+
+> *Crafting efficient, clean, and scalable solutions with a design-first perspective*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasrolb/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomasrolb@gmail.com)
 
 </div>
 
----
 
-## 👨‍💻 About Me
-
-> *Crafting efficient, clean, and scalable solutions with a design-first perspective*
 
 I'm a **Software Engineer** with 1+ year of professional experience, currently working at **Besysoft S.A.** and studying **Software Engineering** at Universidad Austral with a **9.50/10** average (GPA 3.83).
 
@@ -32,18 +30,18 @@ I'm a **Software Engineer** with 1+ year of professional experience, currently w
 <img src="https://skillicons.dev/icons?i=spring,express,nodejs" />
 
 ### Frontend & Mobile  
-<img src="https://skillicons.dev/icons?i=angular,react,flutter,js,html,css" />
+<img src="https://skillicons.dev/icons?i=angular,react,flutter,androidstudio,tailwind" />
 
 ### Machine Learning & Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" style="width: 64px; height: 64px; background: #242938; border-radius: 8px; padding: 8px; margin: 0 4px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 64px; height: 64px; background: #242938; border-radius: 8px; padding: 8px; margin: 0;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" style="width: 48px; height: 48px; background: #242938; border-radius: 8px; padding: 8px; margin: 0 4px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 48px; height: 48px; background: #242938; border-radius: 8px; padding: 8px; margin: 0;"/>
 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,maven,gradle,jenkins,githubactions,git,idea,vscode" />
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,kotlin,typescript,rust,python,dart,haskell" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,typescript,rust,dart,python,haskell" />
 
 </div>
 
@@ -57,9 +55,10 @@ I'm a **Software Engineer** with 1+ year of professional experience, currently w
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomRolB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomRolB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomRolB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=HTML,CSS)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TomRolB&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TomRolB&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+
 
 </div>
 
