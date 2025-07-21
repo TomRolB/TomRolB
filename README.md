@@ -2,8 +2,9 @@
 
 <div align="center">
   
-### 🚀 Full Stack Software Engineer | 📚 Advanced Software Engineering Student | 🤖 Machine Learning Enthusiast
+### 🚀 Full Stack Software Engineer | 📚 SW Engineering Student | 🤖 Machine Learning Enthusiast
 
+<img src="./Banner%20wide.png" alt="Banner" style="max-width:100%; border-radius:8px; margin-top:16px;" />
 
 > *Crafting efficient, clean, and scalable solutions with a design-first perspective*
 
