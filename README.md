@@ -36,8 +36,8 @@ I'm a **Software Engineer** with 1+ year of professional experience, currently w
 
 ### Machine Learning & Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" style="width: 32px; height: 32px; background: #1f2328; border-radius: 8px; padding: 8px; margin: 0 4px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 32px; height: 32px; background: #1f2328; border-radius: 8px; padding: 8px; margin: 0;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" style="width: 64px; height: 64px; background: #242938; border-radius: 8px; padding: 8px; margin: 0 4px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 64px; height: 64px; background: #242938; border-radius: 8px; padding: 8px; margin: 0;"/>
 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,maven,gradle,jenkins,githubactions,git,idea,vscode" />
