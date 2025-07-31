@@ -1,10 +1,10 @@
 # Hello! 👋 I'm Tomás Roldán Borjas
 
 <div align="center">
-  
-### 🚀 Full Stack Software Engineer | 📚 SW Engineering Student | 🤖 Machine Learning Enthusiast
 
 <img src="./Banner%20wide.png" alt="Banner" style="max-width:100%; border-radius:8px; margin-top:16px;" />
+
+### 🚀 Full Stack Software Engineer | 📚 SW Engineering Student | 🤖 Machine Learning Enthusiast
 
 > *Crafting efficient, clean, and scalable solutions with a design-first perspective*
 
@@ -12,8 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomasrolb@gmail.com)
 
 </div>
-
-
 
 I'm a **Software Engineer** with 1+ year of professional experience, currently working at **Besysoft S.A.** and studying **Software Engineering** at Universidad Austral with a **9.50/10** average (GPA 3.83).
 
